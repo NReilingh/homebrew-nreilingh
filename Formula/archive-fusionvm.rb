@@ -5,6 +5,6 @@ class ArchiveFusionvm < Formula
   sha256 "39342b48e6869a73f1015e27dfa3464a4352a34dc45f186536fc283463bc5ece"
 
   def install
-    bin.install "archive_vms.zsh"
+    bin.install "archive_fusionvm"
   end
 end

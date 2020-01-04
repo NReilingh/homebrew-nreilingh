@@ -1,14 +1,14 @@
-# homebrew-nreilingh
+# nreilingh/homebrew-tap
 
 ## How do I install these formulae?
-`brew install nreilingh/nreilingh/<formula>`
+`brew install nreilingh/tap/<formula>`
 
-Or `brew tap nreilingh/nreilingh` and then `brew install <formula>`.
+Or `brew tap nreilingh/tap` and then `brew install <formula>`.
 
 Or install via URL (which will not receive updates):
 
 ```
-brew install https://raw.githubusercontent.com/nreilingh/homebrew-nreilingh/master/Formula/<formula>.rb
+brew install https://raw.githubusercontent.com/nreilingh/homebrew-tap/master/Formula/<formula>.rb
 ```
 
 ## Documentation

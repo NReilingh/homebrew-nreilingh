@@ -7,5 +7,6 @@ class Repovet < Formula
 
   def install
     bin.install "repovet"
+    bin.install "schema"
   end
 end

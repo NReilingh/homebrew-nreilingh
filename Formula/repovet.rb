@@ -1,8 +1,8 @@
 class Repovet < Formula
   desc "Validation tool for repo.cue files"
   homepage "https://github.com/NReilingh/describe-repo-schema/"
-  url "https://github.com/NReilingh/describe-repo-schema/releases/download/v0.0.3/repovet-v0.0.3.tar.gz"
-  sha256 "b31f1ee35e190c5eed23dd3683ed13d216277b43a0ba3b5db217ae4630ce2a44"
+  url "https://github.com/NReilingh/describe-repo-schema/releases/download/v0.0.4/repovet-v0.0.4.tar.gz"
+  sha256 "410e07265c16a54d11f2bd08ac2311d07d86f010771158a12c5ec495dc4fd485"
   depends_on "cuelang/tap/cue"
 
   def install
